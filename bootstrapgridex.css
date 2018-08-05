@@ -1,0 +1,76 @@
+*{
+    background-color: #E6E6E6;
+}
+
+container{
+  background-color: #E6E6E6;
+  display: flex;
+  flex-direction: row;
+}
+
+.nav{
+  background-color: #E6E6E6;
+}
+
+.buffer{
+    background-color: #E6E6E6;
+    z-index: 1;
+}
+
+.stripe{
+    height: 10em;
+    width: 100%;
+    background-color: white;
+    z-index: 10;
+
+}
+
+.nav-link{
+  color: black;
+}
+
+
+
+.parkcity{
+  width: 100%;
+  height: 48px;
+}
+
+
+.companytitle{
+width:100%;
+}
+
+
+.design{
+  order: <1>;
+
+}
+
+.develop{
+  order: <2>;
+}
+
+.support{
+  order:<3>;
+}
+
+.host{
+  order: <4>;
+}
+
+
+
+
+
+
+
+.abel{
+    font-family: 'Abel', sans-serif;
+}
+
+.anton{
+    font-family: 'Anton Regular', sans-serif;
+    font-weight: bold;
+}
+
