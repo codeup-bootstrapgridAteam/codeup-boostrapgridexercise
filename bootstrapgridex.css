@@ -1,4 +1,4 @@
-*{
+* {
     background-color: #E6E6E6;
 }
 
@@ -10,19 +10,6 @@ container{
 
 .nav{
   background-color: #E6E6E6;
-}
-
-.buffer{
-    background-color: #E6E6E6;
-    z-index: 1;
-}
-
-.stripe{
-    height: 10em;
-    width: 100%;
-    background-color: white;
-    z-index: 10;
-
 }
 
 .nav-link{
@@ -37,18 +24,6 @@ container{
 
   text-align:center;
 }
-
-
-.parkcity{
-  width: 100%;
-  height: 48px;
-}
-
-
-.companytitle{
-width:100%;
-}
-
 
 .abel{
     font-family: 'Abel', sans-serif;
@@ -110,7 +85,7 @@ width:100%;
   text-align: center;
   background: #00ABA9;
 
-dot1 {
+.dot1 {
   height: 25px;
   width: 25px;
   background-color: #E6563B;
@@ -138,7 +113,10 @@ dot1 {
   border-radius: 50%;
   display: inline-block;
 }
-Message Input
 
-Message @Alfred
+
+.appleipad, .macbook, .manpic, .securitypic,{
+  width: 200px;
+  height: 130px;
+  display: block;
 }
