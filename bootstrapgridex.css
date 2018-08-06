@@ -78,15 +78,16 @@ container{
 .button-host {
   font-family: 'Anton Regular', sans-serif;
   border: 10px solid white;
-  display:block;
-  width:150px;
-  height:150px;
-  border-radius:100px;
-  font-size:20px;
-  color:#fff;
-  line-height:130px;
-  text-align:center;
+  display: block;
+  width: 150px;
+  height: 150px;
+  border-radius: 100px;
+  font-size: 20px;
+  color: #fff;
+  line-height: 130px;
+  text-align: center;
   background: #00ABA9;
+}
 
 .dot1 {
   height: 25px;
