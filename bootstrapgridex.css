@@ -29,6 +29,14 @@ container{
   color: black;
 }
 
+.logo{
+  height: 105px;
+  display: block;
+  width:100px;
+  border-radius:50px;
+
+  text-align:center;
+}
 
 
 .parkcity{
@@ -42,29 +50,6 @@ width:100%;
 }
 
 
-.design{
-  order: <1>;
-
-}
-
-.develop{
-  order: <2>;
-}
-
-.support{
-  order:<3>;
-}
-
-.host{
-  order: <4>;
-}
-
-
-
-
-
-
-
 .abel{
     font-family: 'Abel', sans-serif;
 }
@@ -75,3 +60,85 @@ width:100%;
 
 }
 
+/* service circles Design, Develop, Support, Host */
+
+.button-design {
+  font-family: 'Anton Regular', sans-serif;
+  display:block;
+  width:100px;
+  height:100px;
+  border-radius:50px;
+  font-size:20px;
+  color:#fff;
+  line-height:100px;
+  text-align:center;
+  background:#E6563B;
+}
+.button-develop {
+  font-family: 'Anton Regular', sans-serif;
+  display:block;
+  width:100px;
+  height:100px;
+  border-radius:50px;
+  font-size:20px;
+  color:#fff;
+  line-height:100px;
+  text-align:center;
+  background:#EB9D3A;
+}
+.button-support{
+  font-family: 'Anton Regular', sans-serif;
+  display:block;
+  width:100px;
+  height:100px;
+  border-radius:50px;
+  font-size:20px;
+  color:#fff;
+  line-height:100px;
+  text-align:center;
+  background:#7CB06C;
+}
+.button-host {
+  font-family: 'Anton Regular', sans-serif;
+  display: block;
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+  font-size: 20px;
+  color: #fff;
+  line-height: 100px;
+  text-align: center;
+  background: #00ABA9;
+
+dot1 {
+  height: 25px;
+  width: 25px;
+  background-color: #E6563B;
+  border-radius: 50%;
+  display: inline-block;
+}
+.dot2 {
+  height: 25px;
+  width: 25px;
+  background-color: #EB9D3A;
+  border-radius: 50%;
+  display: inline-block;
+}
+.dot3 {
+  height: 25px;
+  width: 25px;
+  background-color: #7CB06C;
+  border-radius: 50%;
+  display: inline-block;
+}
+.dot4 {
+  height: 25px;
+  width: 25px;
+  background-color: #00ABA9;
+  border-radius: 50%;
+  display: inline-block;
+}
+Message Input
+
+Message @Alfred
+}
